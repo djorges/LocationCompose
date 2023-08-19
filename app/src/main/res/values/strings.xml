@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocationCompose</string>
+    <string name="channel_name">Location</string>
+    <string name="notification_title">Tracking location...</string>
+    <string name="notification_text_default">Location: null</string>
+    <string name="channel_description">some description</string>
 </resources>
